@@ -1,0 +1,23 @@
+# Compilation Java
+*.class
+/out/
+/bin/
+/build/
+/target/
+*.jar
+*.war
+*.ear
+hs_err_pid*.log
+replay_pid*.log
+
+# Réglages locaux de l’IDE
+/.vscode/
+/.idea/
+*.iml
+
+# Fichiers locaux
+.env
+.env.*
+*.log
+Thumbs.db
+.DS_Store
